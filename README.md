@@ -1,4 +1,5 @@
 ### Hey! Welcome, I'm Fernando. 👋
+![me](https://i.ibb.co/JqbnB2z/kandinsky-creador-arte-abstracto.jpg)
 
 <!--
 **Faerk77/Faerk77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

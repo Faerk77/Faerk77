@@ -4,7 +4,7 @@
 
 <!--![image](https://github.com/Faerk77/Faerk77/blob/main/vg.gif)-->
 
-<img align="right" src="https://github.com/Faerk77/Faerk77/blob/main/vg.gif" alt="playing with an arcade machine"  width="450"/>
+<img align="right" src="https://github.com/Faerk77/Faerk77/blob/main/vg.gif" alt="playing with an arcade machine"  width="430"/>
 
 
 ```js

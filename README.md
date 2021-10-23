@@ -15,4 +15,4 @@ const Fer = {
   } 
 ```
 
-[<img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" />](https://jeel/)
+[<img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" />](https://steamcommunity.com/id/Faeerk/)

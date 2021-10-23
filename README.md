@@ -1,7 +1,7 @@
 ### Hey! Welcome, I'm Fernando. 👋
 
 <!--![image](https://github.com/Faerk77/Faerk77/blob/main/vg.gif)-->
-<img src="https://github.com/Faerk77/Faerk77/blob/main/vg.gif" alt="playing with an arcade machine" align="center" witdh="300" height="300" />
+<img src="https://github.com/Faerk77/Faerk77/blob/main/vg.gif" alt="playing with an arcade machine" align="left" witdh="300" height="300" />
 
 ```js
 const Fer = {

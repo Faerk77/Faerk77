@@ -1,5 +1,5 @@
 ### Hey! Welcome, I'm Fernando. 👋
-![me](https://i.ibb.co/KsCBFJQ/59bf96fde108d05bbaa2f096de0934d5.gif)
+<img align="left" src="https://i.ibb.co/KsCBFJQ/59bf96fde108d05bbaa2f096de0934d5.gif" />
 
 ```js
 const Fer = {

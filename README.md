@@ -2,7 +2,7 @@
 
 <!--![image](https://github.com/Faerk77/Faerk77/blob/main/vg.gif)-->
 <p align="center"> 
-<img src="https://github.com/Faerk77/Faerk77/blob/main/vg.gif" alt="playing with an arcade machine"  witdh="280" height="280" />
+<img src="https://github.com/Faerk77/Faerk77/blob/main/vg.gif" alt="playing with an arcade machine"  witdh="320" height="320" />
   </p>
 
 ```js

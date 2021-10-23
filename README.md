@@ -2,7 +2,7 @@
 
 <!--![image](https://github.com/Faerk77/Faerk77/blob/main/vg.gif)-->
 <img src="https://github.com/Faerk77/Faerk77/blob/main/vg.gif" alt="playing with an arcade machine" align="left" witdh="300" height="300" />
-
+<div>
 ```js
 const Fer = {
   pronouns: "he" | "him",
@@ -16,5 +16,5 @@ const Fer = {
   challenge: "Achieve FreeCodeCamp Responsive Web Desing Certification & JavaScript Algorithms and Data Structures",
   } 
 ```
-
+</div>
 

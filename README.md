@@ -1,4 +1,4 @@
-<p align="center">### Hey! Welcome, I'm Fernando. 👋</p>
+<p align="center" font-size="24">### Hey! Welcome, I'm Fernando. 👋</p>
 
 <!--![image](https://github.com/Faerk77/Faerk77/blob/main/vg.gif)-->
 <p align="center"> 

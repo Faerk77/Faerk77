@@ -2,7 +2,7 @@
 
 <p>Hi!, i'm a web developer in process. I'm actually on the tutorial stage haha. But we will keep learning the best i can as fast as i can. If you want to play with me some games there's my steam overthere, contact me and maybe we can play some DOTA2, CSGo, your pick.</p>
 
-<!--![image](https://github.com/Faerk77/Faerk77/blob/main/vg.gif)-->
+</br>
 
 <img align="right" src="https://github.com/Faerk77/Faerk77/blob/main/vg.gif" alt="playing with an arcade machine"  width="430"/>
 

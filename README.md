@@ -3,13 +3,9 @@
 <p>Hi!, I'm Fernando a Web Developer.</p>
 <p>I am studying on <a href="https://www.freecodecamp.org">FreeCodeCamp</a> courses. I'm currently finishing the JavaScript Algorithms and Data Structures
 course.</p>
-<p>I'm going to start some personal && academic projects soon, so hope you like my work & let me know you opinion clicking on the next links, leave a message:</p>
+<p>I'm going to start some personal && academic projects soon, so hope you like my work & hope you enjoy!. If you want to contact me you can click on the links below:</p>
   <ul>
-  <li><a href="https://steamcommunity.com/id/Faeerk/"</li>
-  <li></li>
-
-</br>
-
+  <li><a href="https://steamcommunity.com/id/Faeerk/"></a>
 <img align="right" src="https://github.com/Faerk77/Faerk77/blob/main/vg.gif" alt="playing with an arcade machine"  width="400"/>
 
 

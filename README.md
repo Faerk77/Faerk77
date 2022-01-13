@@ -1,7 +1,12 @@
 <h2 align="center" size="100">### Hey! Welcome 👋</h2>
 
 <p>Hi!, I'm Fernando a Web Developer.</p>
-<p>I am currently finishing the <span>https://www.freecodecamp.org/</span></p>
+<p>I am studying on <a href="https://www.freecodecamp.org">FreeCodeCamp</a> courses. I'm currently finishing the JavaScript Algorithms and Data Structures
+course.</p>
+<p>I'm going to start some personal && academic projects soon, so hope you like my work & let me know you opinion clicking on the next links, leave a message:</p>
+  <ul>
+  <li><a href="https://steamcommunity.com/id/Faeerk/"</li>
+  <li></li>
 
 </br>
 

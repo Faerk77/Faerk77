@@ -6,6 +6,7 @@ course.</p>
 <p>I'm going to start some personal && academic projects soon, so hope you like my work & hope you enjoy!. If you want to contact me you can click on the links below:</p>
   <ul>
   <li><a href="https://steamcommunity.com/id/Faeerk/"></a>
+    </ul>
 <img align="right" src="https://github.com/Faerk77/Faerk77/blob/main/vg.gif" alt="playing with an arcade machine"  width="400"/>
 
 

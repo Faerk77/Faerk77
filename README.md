@@ -1,6 +1,7 @@
-<h2 align="center" size="100">### Hey! Welcome, I'm Fernando. 👋</h2>
+<h2 align="center" size="100">### Hey! Welcome 👋</h2>
 
-<p>Hi!, i'm a web developer in process. I'm actually on the tutorial stage haha. But we will keep learning the best i can as fast as i can. If you want to play with me some games there's my steam overthere, contact me and maybe we can play some DOTA2, CSGo, your pick.</p>
+<p>Hi!, I'm Fernando a Web Developer.</p>
+<p>I am currently finishing the <span>https://www.freecodecamp.org/</span></p>
 
 </br>
 

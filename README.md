@@ -24,7 +24,7 @@ course.</p>
 
 <p>My codepen keep the tracking on my exercises, practices, and the evolution of the courses that i'll be doing. You can check how i solved some logic problems, see the code & grab some lines if they help you :P</p>
 
-<p>I spene a lot of time gaming, my prefer game is DOTA 2 so i put my Steam profile above so you can invite me to your party & make so good matches. I'm mainly support</p>
+<p>I spend a lot of time gaming, my prefer game is DOTA 2 so i put my Steam profile above so you can invite me to your party & make so good matches. I'm mainly support</p>
 
  <hr style="border:2px solid gray"> </hr>
  

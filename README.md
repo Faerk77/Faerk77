@@ -6,11 +6,12 @@
 const Fer = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS,],
-  passions: ["Technologies", "Gaming", "Music"],
+  passions: ["Technologies", "Gaming", "Music", "Trading", "Reading"],
   games: ["Dota 2", "CS:GO", "Valorant"]
   } 
 ```
-<p align="left">I am studying on <a href="https://www.freecodecamp.org/fcc701bbc89-fd45-4e7d-8dfd-335bf76d15bf">FreeCodeCamp</a> courses. I'm currently finishing the JavaScript Algorithms and Data Structures
+<p align="left"><a href="https://www.freecodecamp.org/fcc701bbc89-fd45-4e7d-8dfd-335bf76d15bf">FreeCodeCamp</a> finish!. 
+ I'm currently finishing the JavaScript Algorithms and Data Structures
 course.</p>
 <p align="left">I'm going to start some personal & academic projects soon, so hope you like my work & hope you enjoy it!. If you want to contact me you can click on the links below:</p>
   
